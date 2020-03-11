@@ -12,7 +12,7 @@ from typing import Callable, List
 
 from numpy import mean
 
-from base import Brain, Genome
+from neat.base import Brain, Genome
 
 # endregion
 
