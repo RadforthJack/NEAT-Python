@@ -4,8 +4,8 @@ setup(name='NEAT-Python',
       version='1.0',
       description='NEAT (NeuroEvolution of Augmenting Topologies) algorithm implementation',
       license='BSD',
-      author='Keith Leonardo',
-      author_email='kleonardo52@gmail.com',
-      url='https://github.com/SirBob01/NEAT-Python',
+      author='Jack Radforth',
+      author_email='jack@radforth.co.uk',
+      url='https://github.com/RadforthJack/NEAT-Python',
       packages=['neat'],
-)
+      )
